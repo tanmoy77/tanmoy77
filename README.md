@@ -7,8 +7,8 @@
 <img align="right" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
 <br>
 
-<br> My name is Tanmoy Joy. I'm a passionate frontend enthusiast with a flair for blockchain technology.
-<br><br> 🔭 Currently learning about NextJs new released documentation and blockchain technologies.
+<br> My name is Tanmoy Joy. I'm a passionate fullstack enthusiast with a flair for UI/UX.
+<br><br> 🔭 Currently working in [Webzstore](https://www.webzstore.com/) as a fullstack developer.
 <br><br> 🌱 I am passionate about learning new technologies and transforming ideas to code.
 <br><br> ⚡ Recently my projects are SaaS-related, trying to create new products that'll help people to make lives better.
 <br><br> For more info, you can visit my [porftolio](https://tanmoy77.github.io/)
